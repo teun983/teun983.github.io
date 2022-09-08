@@ -1,15 +1,17 @@
+/* Ruimte tussen linkjes */
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0; 
   }
-  
+/*achtergrond linkjes*/
 li a {
     display: block;
     width: 150px;
     background-color: #244dd4b0; 
   }
-  .header {
+/*header kleur en positie*/
+   .header {
     background-color: #f1f1f1;
     padding: 20px;
     text-align: center;
