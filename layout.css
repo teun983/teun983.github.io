@@ -9,6 +9,10 @@ li a {
     width: 150px;
     background-color: #000000; 
   }
-h3 {
-  background-color: blue;
-}
+  .header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+
+
