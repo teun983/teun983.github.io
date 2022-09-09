@@ -8,7 +8,7 @@ ul {
 li a {
     display: block;
     width: 150px;
-    background-color: #244dd4b0; 
+    background-color: #f1f1f1; 
   }
 /*header kleur en positie*/
    .header {
@@ -21,7 +21,7 @@ li a {
   overflow: hidden;
   background-color: #333;
 }
-/*stijl van de linkjes inde navigatie bar*/
+/*stijl van de linkjes in de navigatie bar*/
   .topnav a {
   float: left;
   display: block;
