@@ -35,3 +35,6 @@ text-decoration: none;
 background-color: #ddd;
 color: black;
 }
+body {
+  background-color: lightblue;
+}
