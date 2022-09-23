@@ -16,25 +16,10 @@ li a {
   padding: 20px;
   text-align: center;
 }
-/*stijl van het bovenste navigatie vlak*/
-.topnav {
-overflow: hidden;
-background-color: #333;
-}
-/*stijl van de linkjes in de navigatie bar*/
-.topnav a {
-float: left;
-display: block;
-color: #f2f2f2;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-}
-/* verander kleur hover */
-.topnav a:hover {
-background-color: #ddd;
-color: black;
-}
+
 body {
   background-color: lightblue;
+}
+photo {
+
 }
