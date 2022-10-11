@@ -28,4 +28,6 @@ li a.active {
   color: white;
   background-color: #04AA6D;
 }
-#bodyindex  {background-color:dodgerblue}
+#bodyhomepage  {background-color:dodgerblue}
+#bodybinary  {background-color: darkgreen;}
+#bodykleurmodellen {background-color: khaki;}
