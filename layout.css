@@ -28,9 +28,7 @@ li a.active {
   color: white;
   background-color: #04AA6D;
 }
-#bodyhomepage  {background-color:dodgerblue;}
 #bodybinary  {background-image:url("binary-numeral-number-background-3081214.jpg");}
-#bodybinary {color:white;}
-#bodykleurmodel {background-color: khaki;} 
+#body {background-image:url("MIT-Evaluating-Performance_0.jpg") ;} 
 p{font-size:20px;}
 h1 {text-align: center;}
