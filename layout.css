@@ -30,7 +30,7 @@ li a.active {
 }
 #bodybinary  {background-image:url("binary-numeral-number-background-3081214.jpg");}
 body {background-image:url("screen-monitor-dark-black.jpg");}
-p {font-size:20px; color: whitesmoke;}
+p {font-size: 40px ; color: whitesmoke; font-family: 'Times New Roman', Times, serif;}
 h1 {text-align: center; color:whitesmoke;}
 footer {text-align: center;}
 h3 {color:whitesmoke;}
