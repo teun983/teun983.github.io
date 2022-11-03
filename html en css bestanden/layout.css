@@ -9,8 +9,8 @@ ul {
 }/*instellingen voor linkjes */
 
 li {
-  float: left;
-}
+  float: center;
+}/*Instellingen welke kant balk start*/
 
 li a {
   display: block;
@@ -18,7 +18,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
+}/*instellingen over blokken linkjes*/
 
 li a:hover:not(.active) {
   background-color: rgb(0, 0, 0);
@@ -29,8 +29,8 @@ li a.active {
   background-color: #04AA6D;
 }
 
-body {background-image:url("/afbeeldingen/screen-monitor-dark-black.jpg");}
-p {font-size: 20px ; color: white;}
-h1 {text-align: center; color:white;}
-footer {text-align: center;}
-h3 {color:whitesmoke;}
+body {background-image:url("/afbeeldingen/screen-monitor-dark-black.jpg");}/*achtergrond website*/
+p {font-size: 20px ; color: white;} /*instellingen voor de paragraven*/
+h1 {text-align: center; color:white;}/*instellingen titel sidepages*/
+footer {text-align: center;}/*instellingen footer*/
+h3 {color:whitesmoke;}/*instellingen over mededelingen */
