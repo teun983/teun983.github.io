@@ -6,7 +6,7 @@ ul {
   overflow: hidden;
   border: 1px solid #e7e7e7;
   background-color: #f3f3f3;
-}
+}/*instellingen voor linkjes */
 
 li {
   float: left;
@@ -22,12 +22,13 @@ li a {
 
 li a:hover:not(.active) {
   background-color: rgb(0, 0, 0);
-}
+}/*achtergrond navigatie bar*/
 
 li a.active {
   color: white;
   background-color: #04AA6D;
 }
+
 body {background-image:url("/afbeeldingen/screen-monitor-dark-black.jpg");}
 p {font-size: 20px ; color: whitesmoke;}
 h1 {text-align: center; color:whitesmoke;}
