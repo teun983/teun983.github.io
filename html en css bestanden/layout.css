@@ -29,7 +29,8 @@ li a.active {
   background-color: #04AA6D;
 }/**instellingen wanneer linkje word ingedrukt**/
 
-body {background-image:url("/afbeeldingen/BGv2.png");}/*achtergrond website*/
+#body1 {background-image:url("/afbeeldingen/BGv2.png");}/*achtergrond homepage en algemene informatie*/
+#body2 {background-color: black;} /*achtergrond:bestandformaten, Binaire stelsel, compressie en kleurmodellen*/
 p {font-size: 20px ; color: white;} /*instellingen voor de paragraven*/
 h1 {text-align: center; color:white;}/*instellingen titel sidepages*/
 footer {text-align: center;}/*instellingen footer*/
