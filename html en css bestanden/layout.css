@@ -29,8 +29,8 @@ li a.active {
   background-color: #04AA6D;
 }/**instellingen wanneer linkje word ingedrukt**/
 
-body {background-image:url("/afbeeldingen/BG.png");font-family:Arial, Helvetica, sans-serif}/*achtergrond website*/
-p {font-size: 22px ; color: whitesmoke;} /*instellingen voor de paragraven*/
-h1 {text-align: center; color:whitesmoke;}/*instellingen titel sidepages*/
-footer {text-align: center;color:whitesmoke;}/*instellingen footer*/
-h3 {font-size:25px;color:whitesmoke;}/*instellingen over mededelingen */
+body {background-image:url("/afbeeldingen/screen-monitor-dark-black.jpg");}/*achtergrond website*/
+p {font-size: 20px ; color: white;} /*instellingen voor de paragraven*/
+h1 {text-align: center; color:white;}/*instellingen titel sidepages*/
+footer {text-align: center;}/*instellingen footer*/
+h3 {color:whitesmoke;}/*instellingen over mededelingen */
