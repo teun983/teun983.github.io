@@ -35,8 +35,9 @@ p {font-size: 20px ; color: white;} /*instellingen voor de paragraven*/
 h1 {text-align: center; color:white;}/*instellingen titel sidepages*/
 footer {text-align: center;}/*instellingen footer*/
 h3 {color:whitesmoke;}/*instellingen over mededelingen */
- /*dropdownmenu code*/
-.dropbtn {
+ 
+/*dropdownmenu code*/
+.dropbtn a{
   background-color: #4CAF50;
   color: white;
   padding: 12px;
