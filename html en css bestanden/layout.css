@@ -39,18 +39,16 @@ h3 {color:whitesmoke;}/*instellingen over mededelingen */
 .dropdown {
   float: left;
   overflow: hidden;
-  border-right: 3px lightblue;
+  border-right: 3px rgb(0, 0, 0);
 }
 
 .dropdown .dropbtn {
-  font-size: 22px;  
+  font-size: 16px;  
   border: none;
   outline: none;
-  color: white;
+  color: #666;
   padding: 14px 16px;
-  background-color: inherit;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin: 0;
+  background-color: #f3f3f3;
 }
 
 .dropdown-content {
@@ -64,8 +62,8 @@ h3 {color:whitesmoke;}/*instellingen over mededelingen */
 
 .dropdown-content a {
   float: none;
-  color: white;
-  background-color: #333;
+  color: #666;
+  background-color: #f3f3f3;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -73,8 +71,8 @@ h3 {color:whitesmoke;}/*instellingen over mededelingen */
 }
 
 .dropdown-content a:hover {
-  background-color: lightblue;
-  color: black;
+  background-color: rgb(0, 0, 0);
+  color:#666;
 }
 
 .dropdown:hover .dropdown-content {
