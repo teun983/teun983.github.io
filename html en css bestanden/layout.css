@@ -30,7 +30,7 @@ li a.active {
 }/**instellingen wanneer linkje word ingedrukt**/
 
 #body1 {background-image:url("/afbeeldingen/BGv2.png");}/*achtergrond homepage en algemene informatie*/
-#body2 {background-color: black;} /*achtergrond:bestandformaten, Binaire stelsel, compressie en kleurmodellen*/
+#body2 {background-color: #666;} /*achtergrond:bestandformaten, Binaire stelsel, compressie en kleurmodellen*/
 p {font-size: 20px ; color: white;} /*instellingen voor de paragraven*/
 h1 {text-align: center; color:white;}/*instellingen titel sidepages*/
 footer {text-align: center;}/*instellingen footer*/
@@ -54,9 +54,8 @@ h3 {color:whitesmoke;}/*instellingen over mededelingen */
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #666;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
