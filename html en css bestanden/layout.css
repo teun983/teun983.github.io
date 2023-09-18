@@ -13,11 +13,12 @@ li {
 }/*Instellingen welke kant balk start*/
 
 li a {
-  display: block;
+  display: flex;
   color: #666;
   text-align: center;
   padding: 12px 14px;
   text-decoration: none;
+  margin: 0;
 }/*instellingen over blokken linkjes*/
 
 li a:hover:not(.active) {
