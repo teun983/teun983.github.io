@@ -39,7 +39,7 @@ h3 {color:whitesmoke;}/*instellingen over mededelingen */
 .dropdown {
   float: left;
   overflow: hidden;
-  border-right: 3px rgb(0, 0, 0);
+  border-right:  rgb(0, 0, 0);
 }
 
 .dropdown .dropbtn {
